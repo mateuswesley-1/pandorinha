@@ -1,0 +1,126 @@
+body {
+  color: #40514E;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
+
+hr  {
+    border: 0;
+    border-top: 5px dotted #251B37;
+    width: 3%;
+    text-align: center;
+    margin: 100px auto;
+
+  }
+
+
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625em;
+  margin: 0 auto 0 auto;
+}
+
+h2 {
+  font-size: 2.5rem;
+  line-height: 1;
+  font-weight: normal;
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+a{
+  color: #11999E
+}
+
+
+
+.pro{
+  text-decoration: underline;
+}
+
+.top{
+  background-color: #EAF6F6;
+  text-align: center;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-nuvem{
+  position: relative;
+  left: 300px;
+  top: 50px;
+}
+
+.bot-nuvem{
+  position: absolute;
+}
+
+.skill-row{
+  width:50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.bafinho{
+  width:25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.pandora-esfregando{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contato{
+  width: 50%;
+  line-height: 30px;
+  text-align: center;
+  margin: 50px auto;
+}
+
+.bottom-container{
+  padding: 40px;
+  text-align: center;
+  background-color: #66BFBF;
+}
+.meu-nome{
+  color: #EAF6F6;
+}
+
+.footer-link{
+  margin-left: 20px;
+}
+
+.pandorinha{
+  margin: 100px auto;
+  width: 10%;
+}
+
+.btn {
+  background: #66BFBF;
+
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
